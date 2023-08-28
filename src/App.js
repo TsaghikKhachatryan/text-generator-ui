@@ -1,6 +1,6 @@
 
 import './App.css';
-import TextGenerator from './TextGenerator'
+import TextGenerator from './components/TextGenerator'
 
 function App() {
   return (

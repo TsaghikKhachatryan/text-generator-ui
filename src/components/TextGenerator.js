@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Container, Paper, TextField, Button } from '@material-ui/core';
-import useStyles from './styles';
+import useStyles from '../styles';
 
 export default function TextGenerator() {
     const classes = useStyles();
